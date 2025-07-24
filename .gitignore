@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradle files
 .gradle/
 build/
@@ -32,3 +33,15 @@ google-services.json
 
 # Android Profiling
 *.hprof
+=======
+.gradle
+/local.properties
+.DS_Store
+build/
+.idea
+*.iml
+app/build
+*.apk
+*.aar
+
+>>>>>>> 69c1cc8 (Second commit: Added '.gitignore' to commit to resolve git pull issue.)
